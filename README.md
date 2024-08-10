@@ -2,7 +2,7 @@ Capstone Project - README
 
 Overview
 
-This project involves the classification of chest X-ray images to detect various lung diseases. The work utilizes Convolutional Neural Networks (CNNs) built from scratch, finely-tuned, pre-trained models, and ensemble techniques to achieve high accuracy in classification.
+This project involves the classification of chest X-ray images to detect various lung diseases. The work utilizes Convolutional Neural Networks (CNNs) built from scratch, built w/ Keras Tuner, the VGG16 pretrained model, and ensemble techniques to achieve increasing accuracy in classification.
 
 Notebooks
 1. AAI_590_Capstone_Project_Final.ipynb
